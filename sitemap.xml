@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+	  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+	  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+<url>
+  <loc>http://www.geeksup.in/</loc>
+  <lastmod>2018-03-24T02:00:48+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/event/experience-day/</loc>
+  <lastmod>2018-03-23T23:07:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/event/open-web-challenge/</loc>
+  <lastmod>2018-03-24T12:22:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/event/code-trek/</loc>
+  <lastmod>2018-03-20T11:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/event/out-of-box/</loc>
+  <lastmod>2018-03-24T12:23:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/event/jagriti-yatra/</loc>
+  <lastmod>2018-03-20T11:31:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/about/</loc>
+  <lastmod>2018-03-23T22:57:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/team/</loc>
+  <lastmod>2018-03-23T23:02:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/testimonial/</loc>
+  <lastmod>2018-03-23T22:59:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/news/</loc>
+  <lastmod>2018-03-23T23:01:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/awards/</loc>
+  <lastmod>2018-03-23T22:55:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/contact-us/</loc>
+  <lastmod>2018-03-23T22:54:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/aifamilychallengeindia/</loc>
+  <lastmod>2018-03-26T12:07:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/gallery.html</loc>
+  <lastmod>2018-03-21T20:35:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/index.html</loc>
+  <lastmod>2018-03-24T02:00:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/construction/index.html</loc>
+  <lastmod>2018-03-23T23:08:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/aifamilychallengeindia/home.html</loc>
+  <lastmod>2018-03-21T21:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/aifamilychallengeindia/aifamily.html</loc>
+  <lastmod>2018-03-21T02:50:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/aifamilychallengeindia/sites.html</loc>
+  <lastmod>2018-03-21T02:50:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/aifamilychallengeindia/tweets.html</loc>
+  <lastmod>2018-03-21T11:02:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/aifamilychallengeindia/gallery.html</loc>
+  <lastmod>2018-03-21T02:50:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/aifamilychallengeindia/contact.html</loc>
+  <lastmod>2018-03-21T02:50:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/aifamilychallengeindia/faq.html</loc>
+  <lastmod>2018-03-21T02:50:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.geeksup.in/aifamilychallengeindia/agenda.html</loc>
+  <lastmod>2018-03-21T02:50:56+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
